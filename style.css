@@ -1,0 +1,63 @@
+body{
+    background-color:#141414;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+
+}
+.sub-container{
+    border:1px 1px ;
+    border: 1px solid #141414;
+    width: 340px;
+    height: 500px;
+    background-color: #1f1f1f;
+    border-radius: 15px;
+    margin: 45px auto;
+}
+.icon-img img{
+    border-radius: 50%;
+    margin-left: 140px;
+    margin-top: 30px;
+    width: 80px;
+}
+h1{
+    color:hsl(0, 0%, 100%) ;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.frontend{
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size:small;
+}
+.location{
+    color:hsl(75, 94%, 57%) ;
+    margin-left: 75px;
+    font-weight: 600;
+    margin-top: 5px;
+    gap: 10px;
+    
+}
+a{
+    display: block;
+    text-align: center;
+    
+    
+    
+}
+button{
+    width: 260px;
+    margin: 8px;
+    background-color: #333333;
+    border: 1px solid #333333;
+    color: white;
+    height: 35px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(75, 94%, 57%) ;
+    color: black;
+}
